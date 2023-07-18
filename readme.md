@@ -1,5 +1,9 @@
 
-## 主体结构
+## PGA
+
+source code of Simple and Efficient Partial Graph Adversarial Attack: A New Perspective
+
+## 主体代码结构
 
 - models: GNN模型实现
 - victims: 训练
